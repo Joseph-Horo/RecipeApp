@@ -3,7 +3,8 @@
 <p id="description">The recipe app allows users to discover various cooking recipes.</p>
 
 <h2>Project Screenshots:</h2>
-![Fish-recipe (1)](https://github.com/user-attachments/assets/036355ed-9c9b-46fd-b761-4165e014ac12)
+
+![Fish](https://github.com/user-attachments/assets/b5b5ab35-fa40-408e-b3de-dd694f0824e1)
 
 
 
